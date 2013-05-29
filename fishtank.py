@@ -1,5 +1,7 @@
-# lab13a.py
-# fishy
+# fishtank.py
+
+'''The fish appear at a random location and the 
+program runs until the fish swim off the screen'''
 
  
 from graphics import *

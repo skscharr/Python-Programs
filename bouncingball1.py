@@ -1,4 +1,7 @@
-# lab7-2.py
+# boundingball1.py
+
+'''The ball bounces around the screen and changes color
+when it passes through the middle of the window'''
 
 from graphics import *
 import time

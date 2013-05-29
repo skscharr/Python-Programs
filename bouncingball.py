@@ -1,4 +1,7 @@
-# lab9b.py
+# bouncingball.py
+
+'''The ball bounces around the screan and changes color 
+when it enters/exits a box'''
 
 from graphics import *
  
